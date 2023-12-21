@@ -1,7 +1,7 @@
 ## 개요
 커머스 프로젝트
 
-## Use
+### Use
 BE - Spring, Jpa, H2 Database, Mysql, JUnit5, Mockito, JWT, AWS
 FE - HTML, CSS, JS, REACT
 
