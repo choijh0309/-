@@ -3,6 +3,7 @@
 
 ### Use
 BE - Spring, Jpa, H2 Database, Mysql, JUnit5, Mockito, JWT, AWS
+
 FE - HTML, CSS, JS, REACT
 
 Goal - 판매자와 구매자 사이를 중개하는 커머스 구축
